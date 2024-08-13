@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "enter image name to be used"
+echo "enter image name to be used for file creation"
 read image_name
 echo "enter version"
 read version
